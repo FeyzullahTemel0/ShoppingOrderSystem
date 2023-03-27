@@ -216,24 +216,6 @@ border-radius:10px;</string>
     <string>X</string>
    </property>
   </widget>
-  <widget class="QPushButton" name="pushButton_4">
-   <property name="geometry">
-    <rect>
-     <x>270</x>
-     <y>30</y>
-     <width>21</width>
-     <height>21</height>
-    </rect>
-   </property>
-   <property name="styleSheet">
-    <string notr="true">background-color:yellow;
-color:black;
-border-radius:10px;</string>
-   </property>
-   <property name="text">
-    <string>_</string>
-   </property>
-  </widget>
  </widget>
  <resources>
   <include location="res.qrc"/>
