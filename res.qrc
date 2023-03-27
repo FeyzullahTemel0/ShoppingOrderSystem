@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>user.svg</file>
+    <file>arrow-right.svg</file>
+    <file>key.svg</file>
+    <file>mail (1).svg</file>
+    <file>link.svg</file>
+    <file>linkedin.svg</file>
+    <file>tumblr_2309aa1f6ac3fe5e00aea2da0660d1f4_1f56ae57_640.jpg</file>
+  </qresource>
+</RCC>

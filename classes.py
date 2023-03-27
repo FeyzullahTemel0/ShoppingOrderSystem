@@ -38,3 +38,4 @@ class Bags(Decorator):
         super().__init__(name, description, price)
         self.gender=gender
         self.type=type
+        
